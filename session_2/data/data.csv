@@ -1,0 +1,26 @@
+transaction_id,date,customer_id,product_id,product_name,category,quantity,unit_price,total_amount,payment_method,store_id,store_location,customer_age,customer_gender,discount_applied
+1001,2024-01-15,C501,P123,Laptop Pro X,Electronics,1,1299.99,1299.99,Credit Card,S01,New York,34,M,0.00
+1002,2024-01-15,C502,P234,Wireless Headphones,Electronics,2,89.99,179.98,PayPal,S01,New York,28,F,10.00
+1003,2024-01-15,C503,P345,Coffee Maker,Home & Kitchen,1,79.99,79.99,Debit Card,S02,Los Angeles,45,F,5.00
+1004,2024-01-16,C504,P456,Running Shoes,Sports,1,129.99,129.99,Credit Card,S03,Chicago,29,M,15.00
+1005,2024-01-16,C505,P567,Yoga Mat,Sports,1,29.99,29.99,Cash,S02,Los Angeles,31,F,0.00
+1006,2024-01-16,C506,P678,Smart Watch,Electronics,1,249.99,249.99,Credit Card,S01,New York,42,M,25.00
+1007,2024-01-17,C507,P789,Blender,Home & Kitchen,1,69.99,69.99,Debit Card,S03,Chicago,38,F,0.00
+1008,2024-01-17,C508,P890,Gaming Mouse,Electronics,1,59.99,59.99,PayPal,S04,San Francisco,25,M,5.00
+1009,2024-01-17,C509,P901,Protein Powder,Health & Fitness,2,39.99,79.98,Credit Card,S03,Chicago,27,M,0.00
+1010,2024-01-18,C510,P123,Laptop Pro X,Electronics,1,1299.99,1169.99,Credit Card,S04,San Francisco,33,F,130.00
+1011,2024-01-18,C511,P234,Wireless Headphones,Electronics,1,89.99,89.99,Cash,S02,Los Angeles,22,M,0.00
+1012,2024-01-18,C512,P345,Coffee Maker,Home & Kitchen,2,79.99,159.98,PayPal,S01,New York,41,F,0.00
+1013,2024-01-19,C513,P567,Yoga Mat,Sports,3,29.99,89.97,Debit Card,S03,Chicago,35,F,0.00
+1014,2024-01-19,C514,P678,Smart Watch,Electronics,1,249.99,224.99,Credit Card,S04,San Francisco,45,M,25.00
+1015,2024-01-19,C515,P789,Blender,Home & Kitchen,1,69.99,69.99,Cash,S02,Los Angeles,29,F,0.00
+1016,2024-01-20,C516,P890,Gaming Mouse,Electronics,2,59.99,119.98,PayPal,S01,New York,24,M,0.00
+1017,2024-01-20,C517,P901,Protein Powder,Health & Fitness,1,39.99,39.99,Credit Card,S03,Chicago,32,M,0.00
+1018,2024-01-20,C518,P123,Laptop Pro X,Electronics,1,1299.99,1234.99,Credit Card,S04,San Francisco,37,F,65.00
+1019,2024-01-21,C519,P234,Wireless Headphones,Electronics,1,89.99,80.99,Debit Card,S02,Los Angeles,26,M,9.00
+1020,2024-01-21,C520,P345,Coffee Maker,Home & Kitchen,1,79.99,79.99,Cash,S01,New York,44,F,0.00
+1021,2024-01-21,C521,P456,Running Shoes,Sports,2,129.99,259.98,Credit Card,S03,Chicago,30,M,0.00
+1022,2024-01-22,C522,P567,Yoga Mat,Sports,1,29.99,29.99,PayPal,S04,San Francisco,28,F,0.00
+1023,2024-01-22,C523,P678,Smart Watch,Electronics,1,249.99,237.49,Credit Card,S02,Los Angeles,39,M,12.50
+1024,2024-01-22,C524,P789,Blender,Home & Kitchen,1,69.99,69.99,Debit Card,S01,New York,36,F,0.00
+1025,2024-01-23,C525,P890,Gaming Mouse,Electronics,3,59.99,179.97,Credit Card,S03,Chicago,23,M,0.00
