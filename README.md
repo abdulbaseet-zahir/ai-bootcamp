@@ -1,3 +1,5 @@
+<img src="./images/cover.jpg" width="1920"/>
+
 # 4-Week AI Bootcamp Curriculum
 **Duration:** 12 sessions × 2 hours = 24 total hours  
 **Schedule:** Three days in a week (Sunday, Tuesday, Thursday)
@@ -22,10 +24,11 @@
 
 ### Session 3: Machine Learning Basics
 - ML workflow overview
+- Linear Regression from scratch
 - Scikit-learn introduction
 - Train-test splits
 - Model evaluation metrics
-- Practical: First ML model (Linear Regression)
+- Practical: First ML model from scratch (Linear Regression)
 
 ## Week 2: Core ML Algorithms
 
@@ -40,13 +43,10 @@
 - K-Nearest Neighbors
 - Cross-validation
 - Hyperparameter tuning
-- Practical: Multi-class classification project
+- K-means clustering (Unsupervised Learning)
 
 ### Session 6: Unsupervised Learning
-- K-means clustering
-- Hierarchical clustering
-- Dimensionality reduction (PCA)
-- Practical: Customer segmentation project
+- Project Management by Wedo
 
 ## Week 3: Deep Learning
 
