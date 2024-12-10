@@ -45,7 +45,7 @@
 - Hyperparameter tuning
 - K-means clustering (Unsupervised Learning)
 
-### Session 6: Unsupervised Learning
+### Session 6: Project Management
 - Project Management by Wedo
 
 ## Week 3: Deep Learning
