@@ -45,7 +45,7 @@
 - Hyperparameter tuning
 - K-means clustering (Unsupervised Learning)
 
-### Session 6: Unsupervised Learning
+### Session 6: Project Management
 - Project Management by Wedo
 
 ## Week 3: Deep Learning
@@ -64,22 +64,25 @@
 - GPU training
 - Practical: Image classification project
 
-### Session 9: Advanced Deep Learning
-- RNNs and LSTMs
-- Natural Language Processing basics
-- Word embeddings
-- Practical: Text classification project
-
-## Week 4: Transformer models in Production
-
-### Session 10: Transformers for Sequence-To-Sequence problems
+### Session 9: Transformer Architectur
+- Attention is all you need paper
 - Position embedding
 - Attention mechanism
-- Attention is all you need paper
-- Transformer architecture 
-- Practical: Text summarization project
+- Transformer architecture
 
-### Session 11: Docker & Deployment
+### Session 10: Encoder-Decoder Models
+- Tokenizers
+- Word embedding
+- Warmstart Encoder-Decoder Models
+
+## Week 4: AI in Production
+
+### Session 12: Language Models
+- Bert 
+- GPT
+- Train Bert like language model
+
+### Session 12: Docker & Deployment
 - Model serialization
 - REST APIs with FastAPI
 - Basic software engineering practices
@@ -87,7 +90,7 @@
 - Development vs production environments
 - Practical: Creating a REST API and Dockerizing the ML application
 
-### Session 12: Machine Translation Final Project
+### Session 13: Machine Translation Final Project
 - End-to-end ML project
 - Model development to deployment
 - Best practices and optimization
