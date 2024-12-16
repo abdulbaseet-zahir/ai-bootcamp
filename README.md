@@ -1,8 +1,6 @@
 <img src="./images/cover.jpg" width="1920"/>
 
 # 4-Week AI Bootcamp Curriculum
-**Duration:** 12 sessions × 2 hours = 24 total hours  
-**Schedule:** Three days in a week (Sunday, Tuesday, Thursday)
 
 ## Week 1: Foundations
 
@@ -77,10 +75,10 @@
 
 ## Week 4: AI in Production
 
-### Session 12: Language Models
-- Bert 
-- GPT
-- Train Bert like language model
+### Session 12: Pretraning a Language Models
+- Introduction to BERT 
+- INtroduction to GPT
+- Train a BERT like language model
 
 ### Session 12: Docker & Deployment
 - Model serialization
@@ -98,20 +96,3 @@
 - Next steps and resources
 - Final words
 
-## Prerequisites
-- Basic Python programming
-- Understanding of basic statistics
-- GitHub account
-
-## Required Software
-- Python 3.8+
-- Anaconda
-- VS Code
-- Docker Desktop
-- Git
-
-## Learning Resources
-- Course materials (Jupyter notebooks)
-- Practice datasets
-- Reference code samples
-- Recommended readings for each session
