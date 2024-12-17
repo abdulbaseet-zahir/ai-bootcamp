@@ -85,7 +85,6 @@
 - REST APIs with FastAPI
 - Basic software engineering practices
 - Containerizing ML applications with Docker
-- Development vs production environments
 - Practical: Creating a REST API and Dockerizing the ML application
 
 ### Session 13: Machine Translation Final Project

@@ -1,0 +1,13 @@
+version: "3.9"
+
+services:
+  fastapi-app:
+    build:
+      context: .  # Points to the directory containing the Dockerfile
+      dockerfile: Dockerfile
+    ports:
+      - "8000:80"  # Maps port 80 in the container to port 8000 on the host
+    volumes:
+      - .:/app  # Mounts the current directory to the container for live code updates
+    environment:
+      - PYTHONUNBUFFERED=1  # Ensures consistent logging
