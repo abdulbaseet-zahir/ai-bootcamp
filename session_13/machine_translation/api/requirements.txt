@@ -1,0 +1,9 @@
+numpy
+pandas
+fastapi
+uvicorn
+transformers
+tokenizers
+datasets
+accelerate
+torch[cpu]

@@ -89,9 +89,6 @@
 
 ### Session 13: Machine Translation Final Project
 - End-to-end ML project
-- Model development to deployment
-- Best practices and optimization
-- Project presentations
 - Next steps and resources
 - Final words
 

@@ -1,0 +1,28 @@
+version: "3.8"
+
+services:
+  api:
+    build:
+      context: ./api
+      dockerfile: Dockerfile
+    container_name: fastapi_service
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./api:/app
+    environment:
+      - MODEL_PATH=/app/t5-en-de
+
+  gradio:
+    build:
+      context: ./gradio_app
+      dockerfile: Dockerfile
+    container_name: gradio_service
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./gradio_app:/app
+    depends_on:
+      - api
+    environment:
+      - API_URL=http://api:8000/translate/
