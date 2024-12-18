@@ -17,7 +17,7 @@ def download_and_save_opus_books():
 
     # Convert the dataset splits to pandas DataFrames
     # Invert the columns for English as source and German as target
-    train_data = pd.DataFrame(train_dataset["translation"])[:10_000]
+    train_data = pd.DataFrame(train_dataset["translation"])[:3_000]
     val_data = pd.DataFrame(val_dataset["translation"])[:1_000]
     test_data = pd.DataFrame(test_dataset["translation"])[:1_000]
 

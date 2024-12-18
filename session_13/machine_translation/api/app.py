@@ -25,7 +25,7 @@ app.add_middleware(
 model_path = os.getenv("MODEL_PATH")
 if not model_path:
     print("The environment variable MODEL_PATH is not set!")
-    model_path = "../models/saved_models/t5-en-de"
+    model_path = "t5-en-de"
 
 
 model = AutoModelForSeq2SeqLM.from_pretrained(model_path)
